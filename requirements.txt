@@ -11,3 +11,4 @@ docx2txt
 requests
 sentence-transformers
 transformers
+streamlit
