@@ -1,0 +1,13 @@
+python-dotenv
+uuid
+pathlib
+protobuf
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+pypdf
+docx2txt
+requests
+sentence-transformers
+transformers
